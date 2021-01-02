@@ -5,8 +5,8 @@ Air pollution is measured using the Air Quality Index (AQI) on a scale from 0-50
 
 The Air Quality index looks at a few different pollutants:
 
-Ground-level ozone
-Particulates
-Carbon monoxide
-Sulphur dioxide
-Nitrogen dioxide
+- Ground-level ozone
+- Particulates
+- Carbon monoxide
+- Sulphur dioxide
+- Nitrogen dioxide
