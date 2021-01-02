@@ -10,3 +10,10 @@ The Air Quality index looks at a few different pollutants:
 - Carbon monoxide
 - Sulphur dioxide
 - Nitrogen dioxide
+
+Prerequisites:
+- Ability to use Python at a beginner level
+- Experience using Visual Studio Code, at the beginner level
+- Python 3.6 or higher installed, and available on your path
+- Visual Studio Code installed
+- Python tools for Visual Studio Code installed
