@@ -53,3 +53,10 @@ Heat map layers represent the density of data using a range of colors to show 'h
 The location of the features in the layer is defined by a data source. The data source can also provide data to configure controls on the layer, for example what image to display or how large to make a bubble.
 
 In this unit, you learned about the Azure Maps web SDK. including styles, navigation and layers. Next, you'll create an Azure Maps account so you can use the web SDK in a web app.
+
+# Get air quality data
+The World Air Quality Index aggregates air quality data from around the world, and makes this data available through a free API you can use in your app. The data is available as the current AQI (Air Quality Index) reading for multiple recording stations around the world. When you request data, you can do it for either:
+
+- A single location to get the nearest reading for a city or location
+- All the stations within a rectangle defined using the north-east and south-west coordinates of the rectangle.
+The map should plot as much data as possible based on the visible area of the map. AQI data can be requested for just those stations within the visible area. This makes the API call faster, as only the data needed is requested.
