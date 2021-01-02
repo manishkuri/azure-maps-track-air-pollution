@@ -38,15 +38,15 @@ There are a number of different layer types available, and these layers all rend
 
 The different layer types include:
 
-Symbol layer
+- Symbol layer
 
 Symbol layers put either a pin icon, or a custom icon loaded from an image file at a specific location on the map. For example, different icons could show the location of various types of social support in a city, such as food banks, homeless shelters, or refuges.
 
-Bubble layer
+- Bubble layer
 
 Bubble layers put circular bubbles at locations on the map. The bubbles can be configured to show the data they're representing, such as setting the bubble size or color. For example, during a pandemic different bubble sizes could show the number of people who have contracted an illness, with the color reflecting the mortality rate.
 
-Heat map
+- Heat map
 
 Heat map layers represent the density of data using a range of colors to show 'hot spot' areas on a map. For example, a heat map could be used to show the relative risk of earthquakes based off the number and strength of previous earthquakes.
 
